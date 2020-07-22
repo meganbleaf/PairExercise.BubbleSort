@@ -33,5 +33,5 @@ function bubbleSort(array){
 
 bubbleSort([8,6,5,7]);
 // 
-console.log(comparisonCounter);
-console.log(swapCounter);
+// console.log(comparisonCounter);
+// console.log(swapCounter);
